@@ -1,4 +1,4 @@
-# Travel_Maangment
+# Travel_Management
 An advance travel management system in c++.
 
 This travel manaagement system was built in c++ in windows. It has some cool animations.
